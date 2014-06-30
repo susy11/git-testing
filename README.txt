@@ -1,3 +1,4 @@
 This is me testing git
-added SSH auth
-feature1
+added SSH auth 
+hello stashing example
+
